@@ -1,4 +1,4 @@
-# AI Resume Analyzer
+# AI-powered resume analysis and ATS optimization platform.
 
 An AI-powered resume analysis tool built with Next.js, TypeScript, and Tailwind CSS.
 
